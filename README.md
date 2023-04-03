@@ -1,2 +1,2 @@
 # cudamemcpy
-testing some throughput weirdness 
+testing some throughput weirdness on different machines
